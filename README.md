@@ -1,5 +1,7 @@
 # Rice blast management trials in Brazil
 
+Versão em português: [README.pt-BR.md](README.pt-BR.md)
+
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23649646.svg)](https://doi.org/10.5281/zenodo.23649646)
 
 2,990 trial results from 55 trials on managing rice blast (*Pyricularia oryzae*, teleomorph *Magnaporthe oryzae*, "brusone") in upland and irrigated rice (*Oryza sativa*) in Brazil, taken from the tables of 20 open-access Embrapa publications: foliar fungicide, seed treatment, resistant cultivars and lines, silicon, nitrogen and potassium, sowing date, furrow irrigation and induced resistance. Each row is one number exactly as printed, with the page and table it came from, and points to the trial it belongs to.
